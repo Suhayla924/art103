@@ -1,0 +1,119 @@
+body{
+	background-color: white;
+	background-image: url("ballon race.png"); 
+	background-opacity: .8;
+	font-family: Helvetica, Arial, sans-serif;
+}
+a{
+	text-decoration: none;
+	color:blue;
+}
+h6{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border: outset;
+	border-color:  #ff4d94;
+	border-width: 10px;
+	mix-blend-mode: screen;
+	padding: 70px;
+	font-size: 85pt;
+}
+h1, h2, h3{
+	margin: 0in;
+}
+
+h4{
+	font-size: 25pt;
+	text-align: left;
+}
+h5{
+	text-align: center;
+	padding-right: 2in;
+	margin:0in;
+	font-size: 26pt;
+}
+
+#container{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-width: .1in;
+	padding: .5in;
+}
+
+#header{
+	background-color:white;
+	color: #4d4dff;
+	text-align: center;
+	margin: 30px;
+	font-size: 28pt;
+
+}
+
+#content {
+	padding: 10px ;
+}
+
+#nav{
+	padding: 3px;
+	width: 180px;
+	float: left;
+	background-color: white;
+	font-size: 14pt;
+	border-style: solid;
+}
+#nav ul{
+	list-style-type: none;
+	padding: 10;
+}
+#nav h3{
+	margin: .3in;
+}
+
+#nav.selected{
+	color: black;
+}
+
+#main{
+	width: 600px;
+	float: right;
+}
+
+#main ul{
+	list-style: none;
+	font-size: 20px;
+	color: rgb(7, 27, 132);
+	
+}
+#main li{
+	list-style: none;
+	text-align: center;
+	padding-right: 2in;
+	margin-right: .25in;
+
+}
+
+#main h3{
+	text-align: center;
+	padding-right: 2in;
+	margin:0in;
+	font-size: 22pt;
+}
+
+#main p{
+	text-align: left;
+	padding-right: .2in;
+}
+#footer{
+	clear:both;
+	padding: 10px;
+	background-color: #3366ff;
+	color: white;
+	text-align: right;
+
+}
