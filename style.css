@@ -2,6 +2,7 @@ h1 {
   font-color: black;
   font-weight: bold;
   font-size: 35pt;
+  text-shadow: 2px 2px 5px pink;
 }
 
 h2 {
@@ -10,7 +11,7 @@ h2 {
   font-size: 20pt;
   text-align: center;
   padding: 10px;
-  background-color:rgb(246, 245, 245);
+  text-shadow: 2px 2px 5px pink;
 }
 
 h3 {
@@ -19,7 +20,7 @@ h3 {
   font-size: 16pt;
   text-align: left;
   padding-left: 50px;
-  text-shadow: 2px 2px 5px white;
+  text-shadow: 2px 2px 5px pink;
 }
 
 body {
@@ -38,11 +39,9 @@ body {
 p {
   padding: 15px;
   font-color: black;
-  font-size: 20px;
+  font-size: 18px;
   background-color: white;
   text-align: center;
-  border-style: double;
-  border-width: 0.04in;
 }
 
 ul {
@@ -73,7 +72,6 @@ div.text {
   font-size: 20px;
   background-color: white;
   text-align: center;
-  ;
   border-style: double;
   border-width: 0.04in;
 }
